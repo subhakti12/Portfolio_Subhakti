@@ -11,6 +11,7 @@ module.exports = {
         primary: '#3f3cbb',
         secondary: '#64748b',
         dark: '#0f172a',
+        hitam: '#030712',
       },
       screens: {
         '2xl': '1320px'
