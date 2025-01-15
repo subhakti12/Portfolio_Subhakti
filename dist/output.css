@@ -861,6 +861,11 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
 }
 
+.bg-secondary {
+  --tw-bg-opacity: 1;
+  background-color: rgb(100 116 139 / var(--tw-bg-opacity, 1));
+}
+
 .fill-current {
   fill: currentColor;
 }
@@ -1009,11 +1014,6 @@ video {
 .text-Blue1 {
   --tw-text-opacity: 1;
   color: rgb(56 189 248 / var(--tw-text-opacity, 1));
-}
-
-.text-Rose {
-  --tw-text-opacity: 1;
-  color: rgb(76 5 25 / var(--tw-text-opacity, 1));
 }
 
 .text-dark {
